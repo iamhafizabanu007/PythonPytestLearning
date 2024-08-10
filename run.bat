@@ -1,0 +1,1 @@
+rem pytest -s -v -m "sanity" Testcases/ --browser chrome
